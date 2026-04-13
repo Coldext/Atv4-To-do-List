@@ -52,12 +52,12 @@ lib/
 * Emulador ou dispositivo físico
 
 ### Passos
-
+```
 git clone https://github.com/Coldext/Atv4-To-do-List.git
 cd Atv4-To-do-List
 flutter pub get
 flutter run
-
+```
 ## Como Usar
 
 * Adicione novas tarefas pela interface
