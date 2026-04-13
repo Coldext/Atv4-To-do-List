@@ -28,7 +28,7 @@ A interface é minimalista e intuitiva, facilitando o acompanhamento do progress
 * Material Design 3
 
 ## Estrutura do Projeto
-
+```
 lib/
 │
 ├── main.dart                # Ponto de entrada da aplicação
@@ -41,6 +41,7 @@ lib/
 │   ├── task_cards.dart     # Componente visual das tarefas
 │   ├── section_header.dart # Cabeçalho das seções
 │   └── empty_message.dart  # Mensagem para listas vazias
+```
 
 ## Como Rodar o Projeto
 
